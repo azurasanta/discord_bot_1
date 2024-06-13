@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/Aiko-Discord-Bot/Aiko">
+  <a href="https://github.com/azurasanta/discord_bot_1.git">
   <img src="assets/Aiko.png" alt="Aiko logo" height="400"/>
      </a>
 
